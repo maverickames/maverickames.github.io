@@ -2,7 +2,7 @@
 title: Promoted Structsbundle
 date: 2023-04-11 16:00:00 +/-TTTT
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+tags: [golang]     # TAG names should always be lowercase
 ---
 
 ## Promoted Structsbundle
